@@ -54,20 +54,14 @@ Kiran Madhav
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kiran-madhav&show_icons=true&hide_border=false&border_color=1f2a37&bg_color=0d1117&title_color=ffb454&text_color=f4eee0&icon_color=54e6a8&border_radius=6&rank_icon=github" alt="GitHub stats" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-madhav&layout=compact&hide_border=false&border_color=1f2a37&bg_color=0d1117&title_color=ffb454&text_color=f4eee0&border_radius=6" alt="Top languages" />
 
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=kiran-madhav&background=0d1117&border=1f2a37&stroke=1f2a37&ring=54e6a8&fire=ffb454&currStreakNum=f4eee0&sideNums=f4eee0&currStreakLabel=54e6a8&sideLabels=8b949e&dates=6e7681&border_radius=6" alt="Streak" />
 
 <br/><br/>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran-madhav&bg_color=0d1117&color=54e6a8&line=54e6a8&point=ffb454&area=true&area_color=54e6a8&hide_border=true&title_color=f4eee0&radius=6" width="100%" alt="Contribution activity graph" />
 
-<br/>
 
 
 <img src="./assets/snake.svg" width="100%" alt="Pixel snake eating contribution squares" />
